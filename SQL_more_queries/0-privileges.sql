@@ -2,10 +2,10 @@
 #!/bin/bash
 
 # MySQL credentials
-MYSQL_USER="your_mysql_username"
-MYSQL_PASSWORD="your_mysql_password"
+MYSQL_USER="0-privileges"
+MYSQL_PASSWORD="0-privileges_passwd"
 MYSQL_HOST="localhost"
-MYSQL_DATABASE="mysql"  # The system database where user privileges are stored
+MYSQL_DATABASE="SQL_more_queries"  # The system database where user privileges are stored
 
 # Users to check privileges for
 USERS=("user_0d_1" "user_0d_2")
