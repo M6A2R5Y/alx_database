@@ -1,4 +1,4 @@
-// This code is about my privileges
+/* This code is about my privileges */
 #!/bin/bash
 
 # MySQL credentials
